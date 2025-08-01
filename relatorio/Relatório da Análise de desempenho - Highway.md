@@ -56,7 +56,7 @@ Analisando o gráfico de receita da loja entre 01/04/2025 e 30/06/2025, notamos 
 
 Outro ponto de atenção é a loja **highway-rua-dos-bens-perdidos**. No gráfico que mostra a evolução da receita e do torque diário em 2025, nota-se um aumento expressivo no torque a partir de fevereiro. No entanto, a receita não acompanhou essa tendência, apresentando, na verdade, uma leve queda geral. A linha em azul no gráfico destaca essa diminuição.
 
-![Receita líquida e torque diário da highway-rua-bens-perdidos.png](images/Receita_lquida_e_torque_dirio_da_highway-rua-bens-perdidos.png)
+![Receita líquida e torque diário da highway-rua-bens-perdidos.png](images/Receita_líquida_e_torque_dirio_da_highway-rua-bens-perdidos.png)
 
 ## Recomendações
 
