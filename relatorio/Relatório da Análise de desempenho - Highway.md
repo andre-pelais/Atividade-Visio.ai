@@ -46,17 +46,17 @@ A tabela acima apresenta o ranking das lojas conforme o torque médio. O gráfic
 
 Embora a loja **highway-avenida-nova-balanca** tenha o maior torque, ela ocupa a segunda posição em contribuição para a receita. Já a **highway-adidas-shopping** se destaca com um grande volume de vendas, gerando quase um terço da receita total das lojas.
 
-![Receita versus Lojas.png](Receita_versus_Lojas.png)
+![Receita versus Lojas.png](images/Receita_versus_Lojas.png)
 
 Um ponto de atenção é a loja **highway-praca-ekin**, que apresenta o menor torque médio e a menor participação na receita total. É fundamental que se desenvolvam estratégias para melhorar seu desempenho.
 
 Analisando o gráfico de receita da loja entre 01/04/2025 e 30/06/2025, notamos que a partir de junho houve vários dias de fechamento (indicados pela linha indo R$ 0,00). Isso não apenas diminui a receita, mas também afeta negativamente o cálculo do torque médio.
 
-![image.png](image.png)
+![image.png](images/image.png)
 
 Outro ponto de atenção é a loja **highway-rua-dos-bens-perdidos**. No gráfico que mostra a evolução da receita e do torque diário em 2025, nota-se um aumento expressivo no torque a partir de fevereiro. No entanto, a receita não acompanhou essa tendência, apresentando, na verdade, uma leve queda geral. A linha em azul no gráfico destaca essa diminuição.
 
-![Receita líquida e torque diário da highway-rua-bens-perdidos.png](Receita_lquida_e_torque_dirio_da_highway-rua-bens-perdidos.png)
+![Receita líquida e torque diário da highway-rua-bens-perdidos.png](images/Receita_lquida_e_torque_dirio_da_highway-rua-bens-perdidos.png)
 
 ## Recomendações
 
